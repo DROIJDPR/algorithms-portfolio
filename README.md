@@ -38,6 +38,17 @@ README.md
 - Student Records Program
 
 ---
+# Algoritmos de Ordenamiento 
+##Bubble Sort
+
+Bubble Sort compara valores vecinos y los intercambia si estan en el orden incorrecto. Este proceso se repite hasta que el areeglo queda completamente ordenado.
+
+### Fortaleza
+- Fácil de entender e implementar.
+
+### Limitación
+- Muy lento para grandes cantidades de datos.
+---
 
 
 ## Goals of this project
