@@ -196,6 +196,21 @@ Comparar 5 y 4 -> intercambiar
 ```
 Ahora la lista está ordenada.
 
+---
+
+# Resultados y Observaciones
+Observamos que los algoritmos simples son más faciles de entender y implementar, pero no son eficientes para grandes cantidades de datos. Algoritmos como Merge Sort, Quick Sort y Binary Search muestran un mejor rendimiento cuando el tamano de la información aumenta.
+
+---
+
+# Reflexión
+Este proyecto nos ayudó a comprender cómo funcionan diferentes algoritmos y cómo GitHub puede utilizarse para organizar proyectos colaborativos. También mejoramos nuestras habilidades de programación, documentación y trabajo en equipo.
+
+---
+
+# Conclusión
+Este portafolio demuestra los conocimientos y habilidades desarrollados durante el curso CCO 140 001 en temas de algoritmos, programación OOP y uso de GitHub.
+
 ## Goals of this project
 - Practice using GitHub
 - Organize code professionally
