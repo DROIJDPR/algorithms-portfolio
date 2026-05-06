@@ -38,6 +38,7 @@ README.md
 - Student Records Program
 
 ---
+
 # Algoritmos de Ordenamiento 
 ## Bubble Sort
 
@@ -48,8 +49,66 @@ Bubble Sort compara valores vecinos y los intercambia si estan en el orden incor
 
 ### Limitación
 - Muy lento para grandes cantidades de datos.
+
 ---
 
+## Insertion Sort
+
+Insertion Sort construye el arreglo ordenado un elemento a la vez insertando valores en su posición correcta.
+
+### Fortaleza
+- Eficiente para conjuntos pequeños de datos.
+
+### Limitación
+- Ineficiente para grandes cantidades de datos.
+
+---
+
+## Merge Sort
+
+Merge Sort divide el arreglo en partes pequeñas, las ordena y luego las combina nuevamente.
+
+### Fortaleza
+- Muy eficiente para grandes cantidades de datos.
+
+### Limitación
+- Requiere memoria adicional.
+
+---
+
+## Quick Sort
+
+Quick Sort selecciona un elemento y organiza el arreglo alrededor de ese elemento.
+
+### Fortaleza
+- Generalmente muy rápido.
+
+### Limitación
+- En algunos casos puede volverse lento.
+
+---
+
+# Algoritmos de Búsqueda
+
+## Sequential Search
+
+Sequential Search revisa cada elemento uno por uno hasta encontrar el valor deseado.
+
+### Fortaleza
+- Fácil de implementar.
+
+### Limitación
+- Lento para grandes cantidades de datos.
+
+## Binary Search
+
+Binary Search divide el área de búsqueda en dos partes repetidamente hasta encontrar el valor deseado.
+
+### Fortaleza
+- Muy rápido en arreglos ordenados.
+
+### Limitación
+- Requiere que los datos estén ordenados.
 
 ## Goals of this project
 - Practice using GitHub
