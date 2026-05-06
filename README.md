@@ -119,7 +119,7 @@ Binary Search divide el área de búsqueda en dos partes repetidamente hasta enc
 | Bubble Sort    |       Sí            |            NO              |           NO             |
 | Insertion Sort |       Sí            |            NO              |           NO             |
 | Merge Sort     |     MODERADO        |            Sí              |           Sí             |
-| Quick Sort     |     MODERADO        |       GENERALMENTE NO      |      GENERALMENTE NO     |
+| Quick Sort     |     MODERADO        |       GENERALMENTE Sí      |      GENERALMENTE NO     |
 ------------------------------------------------------------------------------------------------
 ## Goals of this project
 - Practice using GitHub
