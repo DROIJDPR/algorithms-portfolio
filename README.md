@@ -121,6 +121,33 @@ Binary Search divide el área de búsqueda en dos partes repetidamente hasta enc
 | Merge Sort     |     MODERADO        |            Sí              |           Sí             |
 | Quick Sort     |     MODERADO        |       GENERALMENTE Sí      |      GENERALMENTE NO     |
 ------------------------------------------------------------------------------------------------
+
+# Explícado para un Principiante
+
+## Explicación de Bubble Sort
+
+Bubble Sort funciona comparando dos números vecinos.
+Si el número de la izquierda es mayor que el de la derecha, el algoritmo los intercambia.
+Este proceso continúa varias veces hasta que todos los números quedan ordenados.
+
+### Ejemplo
+
+Lista original:
+```text
+[5, 2, 4]
+```
+Comparar 5 y 2 -> intercambiar
+
+```text
+[2, 5, 4]
+```
+Comparar 5 y 4 -> intercambiar
+
+```text
+[2, 4, 5]
+```
+Ahora la lista está ordenada.
+
 ## Goals of this project
 - Practice using GitHub
 - Organize code professionally
