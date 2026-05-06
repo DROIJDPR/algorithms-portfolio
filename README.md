@@ -39,7 +39,7 @@ README.md
 
 ---
 # Algoritmos de Ordenamiento 
-##Bubble Sort
+## Bubble Sort
 
 Bubble Sort compara valores vecinos y los intercambia si estan en el orden incorrecto. Este proceso se repite hasta que el areeglo queda completamente ordenado.
 
