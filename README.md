@@ -90,25 +90,73 @@ Quick Sort selecciona un elemento y organiza el arreglo alrededor de ese element
 
 # Algoritmos de Búsqueda
 
-## Sequential Search
+En esta parte del proyecto trabajamos dos algoritmos de búsqueda: Linear Search y Binary Search. Se desarrollaron dos programas distintos en Java para compararlos desde diferentes perspectivas: uno usando un array pequeño con varios valores objetivo y otro analizando cómo cambia el rendimiento cuando el tamaño del array aumenta.
 
-Sequential Search revisa cada elemento uno por uno hasta encontrar el valor deseado.
+Los archivos se encuentran en la carpeta `searching/`:
+
+- `SearchComparison.java`: array de 10 elementos con varios targets
+- `SearchScaling.java`: pruebas con arrays de 50, 1,000 y 10,000 elementos
+
+---
+
+## Linear Search
+
+Linear Search revisa el array elemento por elemento, comenzando desde el primero hasta encontrar el valor deseado o llegar al final.
 
 ### Fortaleza
-- Fácil de implementar.
+- Funciona con arrays ordenados y desordenados
 
 ### Limitación
-- Lento para grandes cantidades de datos.
+- Muy lento en arrays grandes porque puede revisar todos los elementos
+
+---
 
 ## Binary Search
 
-Binary Search divide el área de búsqueda en dos partes repetidamente hasta encontrar el valor deseado.
+Binary Search trabaja dividiendo el área de búsqueda a la mitad repetidamente hasta encontrar el valor deseado.
 
 ### Fortaleza
-- Muy rápido en arreglos ordenados.
+- Muy rápido en arrays grandes
 
 ### Limitación
-- Requiere que los datos estén ordenados.
+- Requiere que el array esté ordenado previamente
+
+---
+
+## Resultados: Programa 1
+
+Usando el array:
+
+```text
+{2, 5, 8, 12, 16, 23, 38, 56, 72, 91}
+```
+
+| Target | Linear Search | Binary Search  |
+|--------|---------------|----------------|
+| 8      | 3 pasos       | 3 pasos        |
+| 23     | 6 pasos       | 1 paso         |
+| 91     | 10 pasos      | 4 pasos        |
+| 100    | 10 pasos      | 4 pasos        |
+-------------------------------------------
+---
+
+## Resultados: Programa 2
+
+Buscando el último elemento en arrays de distintos tamaños:
+
+| Tamaño | Linear Search | Binary Search  |
+|--------|---------------|----------------|
+| 50     | 50 pasos      | 7 pasos        |
+| 1,000  | 1,000 pasos   | 11 pasos       |
+| 10,000 | 10,000 pasos  | 15 pasos       |
+-------------------------------------------
+---
+
+## Observaciones
+
+La diferencia entre ambos algoritmos aumenta significativamente cuando el tamaño de los arrays crece. Linear Search aumenta sus pasos de forma proporcional al tamaño del array, mientras que Binary Search solo necesita algunos pasos adicionales incluso cuando la cantidad de datos aumenta considerablemente.
+
+Aunque Binary Search es mucho más eficiente, requiere que los datos estén ordenados. En algunos casos, ordenar primero el array puede tomar más tiempo que simplemente utilizar Linear Search.
 
 ---
 
