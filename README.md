@@ -39,6 +39,16 @@ README.md
 
 ---
 
+## Objetivo de este Proyecto
+- Practicar el uso de GitHub para almacenar y comparti codigo.
+- Organizar programas y algoritmos de manera profesional.
+- Explicar algoritmos utilizando lenguaje claro y ejemplos simples.
+- Comparar distintos algoritmos según su eficiencia y funcionamiento.
+- Mejorar habilidades de programación documentación y trabajo en equipo.
+- Aplicar conceptos de programación orientada a objestos y algoritmos vistos en clase.
+
+---
+
 # Algoritmos de Ordenamiento 
 ## Bubble Sort
 
@@ -210,10 +220,3 @@ Este proyecto nos ayudó a comprender cómo funcionan diferentes algoritmos y c�
 
 # Conclusión
 Este portafolio demuestra los conocimientos y habilidades desarrollados durante el curso CCO 140 001 en temas de algoritmos, programación OOP y uso de GitHub.
-
-## Goals of this project
-- Practice using GitHub
-- Organize code professionally
-- Explain algorithms clearly
-- Compare differente algorithms
-- Improve programming and teamwork skills
