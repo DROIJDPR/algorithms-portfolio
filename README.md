@@ -110,6 +110,17 @@ Binary Search divide el área de búsqueda en dos partes repetidamente hasta enc
 ### Limitación
 - Requiere que los datos estén ordenados.
 
+---
+
+# Tabla Comparativa de Algoritmos
+
+|Algoritmo       |  Fácil de Entender  |  Rápido con Grandes Datos  |  Requiere Memoria Extra  |
+|----------------|---------------------|----------------------------|--------------------------|
+| Bubble Sort    |       Sí            |            NO              |           NO             |
+| Insertion Sort |       Sí            |            NO              |           NO             |
+| Merge Sort     |     MODERADO        |            Sí              |           Sí             |
+| Quick Sort     |     MODERADO        |       GENERALMENTE NO      |      GENERALMENTE NO     |
+------------------------------------------------------------------------------------------------
 ## Goals of this project
 - Practice using GitHub
 - Organize code professionally
