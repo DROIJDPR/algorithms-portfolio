@@ -137,7 +137,7 @@ Usando el array:
 | 23     | 6 pasos       | 1 paso         |
 | 91     | 10 pasos      | 4 pasos        |
 | 100    | 10 pasos      | 4 pasos        |
--------------------------------------------
+
 ---
 
 ## Resultados: Programa 2
@@ -149,7 +149,7 @@ Buscando el último elemento en arrays de distintos tamaños:
 | 50     | 50 pasos      | 7 pasos        |
 | 1,000  | 1,000 pasos   | 11 pasos       |
 | 10,000 | 10,000 pasos  | 15 pasos       |
--------------------------------------------
+
 ---
 
 ## Observaciones
