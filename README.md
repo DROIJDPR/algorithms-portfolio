@@ -1,24 +1,30 @@
 # Algorithms Portfolio
 
-## Description
-This repository contains algorithms and programming concepts learned during the course. The project includes sorting algorithms, searching algorithms, and object-oriented programming examples developed in Java.
-----
-## Team Members
+## Descripción
+
+Este repositorio contiene algoritmos y conceptos de programación aprendidos durante el curso. El proyecto incluye algoritmos de ordenamiento, algoritmos de búsqueda y ejemplos de programación orientada a objetos desarrollados en Java.
+
+---
+
+## Integrante del Grupo
+
 - David Rios Rivera
 - Alejandro Jose Vargas Pedroza
 - Gabriel A. Rondon Davila
 - Israel A. Duran Madera
 - Juan A. Peña Rivera
-----
+---
 
-## Repository Structure
+## Estructura del Repositorio
+```text
 /sorting
 /searching
 /oop
 README.md
-----
+```
+---
 
-## Included Programs
+## Programas Incluidos
 
 ### Sorting Algorithms
 - Bubble Sort
@@ -31,7 +37,7 @@ README.md
 ### Object-Oriented Programming
 - Student Records Program
 
-----
+---
 
 
 ## Goals of this project
