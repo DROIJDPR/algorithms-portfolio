@@ -53,13 +53,19 @@ README.md
 
 ## Bubble Sort
 
-Bubble Sort compara valores vecinos y los intercambia si estan en el orden incorrecto. Este proceso se repite hasta que el arreglo queda completamente ordenado.
+Bubble Sort es un algoritmo de ordenamiento que compara números vecinos y los intercambia si están en el orden incorrecto. Este proceso se repita varias veces hasta que todos los elementos quedan ordenados.
+
+El programa desarrollado en Java utiliza dos métodos principales:
+- `bubbleSort()` para ordenar el arreglo
+- `printArray()` para mostrar los elementos antes y después del ordenamiento
 
 ### Ventajas
 - Fácil de entender e implementar.
+- Bueno para aprender conceptos básicos de ordenamiento.
 
 ### Desventajas
 - Muy lento para grandes cantidades de datos.
+- Realiza muchas comparaciones innecesarias.
 
 ---
 
@@ -68,10 +74,12 @@ Bubble Sort compara valores vecinos y los intercambia si estan en el orden incor
 Insertion Sort construye el arreglo ordenado un elemento a la vez insertando valores en su posición correcta.
 
 ### Ventajas
-- Eficiente para conjuntos pequeños de datos.
+- Fácil de implementar.
+- Funciona bien con listas pequeñas o parcialmente ordenadas.
 
 ### Desventajas
 - Ineficiente para grandes cantidades de datos.
+- Puede realizar muchos movimientos en listas largas.
 
 ---
 
