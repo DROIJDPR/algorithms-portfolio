@@ -170,6 +170,39 @@ Aunque Binary Search es mucho más eficiente, requiere que los datos estén orde
 
 ---
 
+# Programación Orientada a Objetos (OOP)
+
+## Programa de Figuras Geométricas
+
+Este programa fue desarrollado utilizando conceptos de Programación Orientada a Objetos en Java. El proyecto utiliza una clase abstracta llamada `Figura` y varias subclases para representar diferentes figuras geométricas.
+
+Las subclases implementadas son:
+- `Circulo`
+- `Rectangulo`
+- `Cuadrado`
+Cada figura tiene su propia implementación del método `area()` y del método `toString()`.
+
+El programa permite:
+- Crear diferentes tipos de figuras
+- Calcular áreas
+- Mostrar información específica de cada figura
+- Aplicar herencia y polimorfismo
+
+### Conceptos de OOP utilizados
+
+- Clases abstractas
+- Herencia
+- Polimorfismo
+- Encapsulación
+- Sobreescritura de métodos (`@Override`)
+
+### Ventajas
+- El código está organizado y es fácil de mantener
+- Perimte reutilizar métodos y estructuras
+
+### Desventajas
+- Puede ser más complejo para principiantes y cuando el codigo es mas grande.
+
 # Tabla Comparativa de Algoritmos
 
 |Algoritmo       |  Fácil de Entender  |  Rápido con Grandes Datos  |  Requiere Memoria Extra  |
