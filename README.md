@@ -54,10 +54,10 @@ README.md
 
 Bubble Sort compara valores vecinos y los intercambia si estan en el orden incorrecto. Este proceso se repite hasta que el areeglo queda completamente ordenado.
 
-### Fortaleza
+### Ventajas
 - Fácil de entender e implementar.
 
-### Limitación
+### Desventajas
 - Muy lento para grandes cantidades de datos.
 
 ---
@@ -66,10 +66,10 @@ Bubble Sort compara valores vecinos y los intercambia si estan en el orden incor
 
 Insertion Sort construye el arreglo ordenado un elemento a la vez insertando valores en su posición correcta.
 
-### Fortaleza
+### Ventajas
 - Eficiente para conjuntos pequeños de datos.
 
-### Limitación
+### Desventajas
 - Ineficiente para grandes cantidades de datos.
 
 ---
@@ -78,10 +78,10 @@ Insertion Sort construye el arreglo ordenado un elemento a la vez insertando val
 
 Merge Sort divide el arreglo en partes pequeñas, las ordena y luego las combina nuevamente.
 
-### Fortaleza
+### Ventajas
 - Muy eficiente para grandes cantidades de datos.
 
-### Limitación
+### Desventajas
 - Requiere memoria adicional.
 
 ---
@@ -90,10 +90,10 @@ Merge Sort divide el arreglo en partes pequeñas, las ordena y luego las combina
 
 Quick Sort selecciona un elemento y organiza el arreglo alrededor de ese elemento.
 
-### Fortaleza
+### Ventajas
 - Generalmente muy rápido.
 
-### Limitación
+### Desventajas
 - En algunos casos puede volverse lento.
 
 ---
@@ -113,10 +113,10 @@ Los archivos se encuentran en la carpeta `searching/`:
 
 Linear Search revisa el array elemento por elemento, comenzando desde el primero hasta encontrar el valor deseado o llegar al final.
 
-### Fortaleza
+### Ventajas
 - Funciona con arrays ordenados y desordenados
 
-### Limitación
+### Desventajas
 - Muy lento en arrays grandes porque puede revisar todos los elementos
 
 ---
@@ -125,10 +125,10 @@ Linear Search revisa el array elemento por elemento, comenzando desde el primero
 
 Binary Search trabaja dividiendo el área de búsqueda a la mitad repetidamente hasta encontrar el valor deseado.
 
-### Fortaleza
+### Ventajas
 - Muy rápido en arrays grandes
 
-### Limitación
+### Desventajas
 - Requiere que el array esté ordenado previamente
 
 ---
