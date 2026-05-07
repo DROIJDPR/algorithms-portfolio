@@ -1,3 +1,7 @@
+Basic Sorting Code 
+Alejandro J. Vargas Pedroza
+    //Insertion Sort organizes numbers by comparing values and placing them in the correct position.
+
 public class InsertionSort {
 
     public static void insertionSort(int[] arr) {
