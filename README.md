@@ -215,7 +215,6 @@ El programa permite:
 | Quick Sort     |     MODERADO        |       GENERALMENTE Sí         |      GENERALMENTE NO     |
 | Linear Search  |       Sí            |            NO                 |           NO             |
 | Binary Search  |     MODERADO        |            Sí                 |           NO             |
---------------------------------------------------------------------------------------------------
 
 ---
 # Explícado para un Principiante
