@@ -1,4 +1,4 @@
-## Portafolio de Algoritmos
+# Portafolio de Algoritmos
 
 ## Descripción
 
