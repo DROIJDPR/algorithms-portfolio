@@ -6,7 +6,7 @@ Este repositorio contiene algoritmos y conceptos de programación aprendidos dur
 
 ---
 
-## Integrante del Grupo
+## Integrantes del Grupo
 
 - David Rios Rivera
 - Alejandro Jose Vargas Pedroza
@@ -35,24 +35,25 @@ README.md
 - Binary Search
 
 ### Object-Oriented Programming
-- Student Records Program
+- Programa de Figuras Geométricas
 
 ---
 
 ## Objetivo de este Proyecto
-- Practicar el uso de GitHub para almacenar y comparti codigo.
+- Practicar el uso de GitHub para almacenar y compartir codigo.
 - Organizar programas y algoritmos de manera profesional.
 - Explicar algoritmos utilizando lenguaje claro y ejemplos simples.
 - Comparar distintos algoritmos según su eficiencia y funcionamiento.
 - Mejorar habilidades de programación documentación y trabajo en equipo.
-- Aplicar conceptos de programación orientada a objestos y algoritmos vistos en clase.
+- Aplicar conceptos de programación orientada a objetos y algoritmos vistos en clase.
 
 ---
 
 # Algoritmos de Ordenamiento 
+
 ## Bubble Sort
 
-Bubble Sort compara valores vecinos y los intercambia si estan en el orden incorrecto. Este proceso se repite hasta que el areeglo queda completamente ordenado.
+Bubble Sort compara valores vecinos y los intercambia si estan en el orden incorrecto. Este proceso se repite hasta que el arreglo queda completamente ordenado.
 
 ### Ventajas
 - Fácil de entender e implementar.
@@ -180,6 +181,7 @@ Las subclases implementadas son:
 - `Circulo`
 - `Rectangulo`
 - `Cuadrado`
+
 Cada figura tiene su propia implementación del método `area()` y del método `toString()`.
 
 El programa permite:
@@ -198,10 +200,10 @@ El programa permite:
 
 ### Ventajas
 - El código está organizado y es fácil de mantener
-- Perimte reutilizar métodos y estructuras
+- Permite reutilizar métodos y estructuras
 
 ### Desventajas
-- Puede ser más complejo para principiantes y cuando el codigo es mas grande.
+- Puede ser más complejo para principiantes y cuando el codigo es más grande.
 
 ---
 
@@ -217,7 +219,7 @@ El programa permite:
 | Binary Search  |     MODERADO        |            Sí                 |           NO             |
 
 ---
-# Explícado para un Principiante
+# Explícalo para un Principiante
 
 ## Explicación de Bubble Sort
 
@@ -246,7 +248,7 @@ Ahora la lista está ordenada.
 ---
 
 # Resultados y Observaciones
-Observamos que los algoritmos simples son más faciles de entender y implementar, pero no son eficientes para grandes cantidades de datos. Algoritmos como Merge Sort, Quick Sort y Binary Search muestran un mejor rendimiento cuando el tamano de la información aumenta.
+Observamos que los algoritmos simples son más fáciles de entender y implementar, pero no son eficientes para grandes cantidades de datos. Algoritmos como Merge Sort, Quick Sort y Binary Search muestran un mejor rendimiento cuando el tamaño de la información aumenta.
 
 ---
 
@@ -257,3 +259,7 @@ Este proyecto nos ayudó a comprender cómo funcionan diferentes algoritmos y c�
 
 # Conclusión
 Este portafolio demuestra los conocimientos y habilidades desarrollados durante el curso CCO 140 001 en temas de algoritmos, programación OOP y uso de GitHub.
+
+---
+
+Gracias por revisar nuestro portafolio de algoritmos. 
