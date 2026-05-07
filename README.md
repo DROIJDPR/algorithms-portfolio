@@ -203,16 +203,21 @@ El programa permite:
 ### Desventajas
 - Puede ser más complejo para principiantes y cuando el codigo es mas grande.
 
+---
+
 # Tabla Comparativa de Algoritmos
 
-|Algoritmo       |  Fácil de Entender  |  Rápido con Grandes Datos  |  Requiere Memoria Extra  |
-|----------------|---------------------|----------------------------|--------------------------|
-| Bubble Sort    |       Sí            |            NO              |           NO             |
-| Insertion Sort |       Sí            |            NO              |           NO             |
-| Merge Sort     |     MODERADO        |            Sí              |           Sí             |
-| Quick Sort     |     MODERADO        |       GENERALMENTE Sí      |      GENERALMENTE NO     |
-------------------------------------------------------------------------------------------------
+|Algoritmo       |  Fácil de Entender  |  Eficiente con Grandes Datos  |  Requiere Memoria Extra  |
+|----------------|---------------------|-------------------------------|--------------------------|
+| Bubble Sort    |       Sí            |            NO                 |           NO             |
+| Insertion Sort |       Sí            |            NO                 |           NO             |
+| Merge Sort     |     MODERADO        |            Sí                 |           Sí             |
+| Quick Sort     |     MODERADO        |       GENERALMENTE Sí         |      GENERALMENTE NO     |
+| Linear Search  |       Sí            |            NO                 |           NO             |
+| Binary Search  |     MODERADO        |            Sí                 |           NO             |
+--------------------------------------------------------------------------------------------------
 
+---
 # Explícado para un Principiante
 
 ## Explicación de Bubble Sort
